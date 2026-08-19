@@ -1,0 +1,20 @@
+.container {
+    width: 1800px;
+    height: 900px;
+    text-align: center;
+    border: 2px solid black;
+    background-image: url(./images/Image\ Placeholder\ \(10\).png);
+    background-size: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-attachment: fixed;
+    filter:blur(4px)
+
+}
+
+p {
+    font-size: 20px;
+    font-weight: 900;
+    backdrop-filter: blur(4px);
+}
